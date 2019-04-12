@@ -13,3 +13,5 @@ in Python programming.
 01. 01_working_with_virtualenv.md -> how to setup a python virtualenv
 02. 02_using_pip_and_requirements.md -> using pip commands
 03. 03_gitignore.md -> python gitignore example
+04. 04_using_git_tag.md -> how to use git tag
+05. 05_semantic_versioning -> how to use semantic versioning
