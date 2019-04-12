@@ -5,8 +5,8 @@ in Python programming.
 
 ### Scripts
 
-01.01_count_files_in_directory.py -> simple script to count files  
-02.02_example_of_setup.py -> setup.py example
+01. 01_count_files_in_directory.py -> simple script to count files  
+02. 02_example_of_setup.py -> setup.py example
 
 ### Snipptes
 
