@@ -12,3 +12,4 @@ in Python programming.
 
 01. 01_working_with_virtualenv.md -> how to setup a python virtualenv
 02. 02_using_pip_and_requirements.md -> using pip commands
+03. 03_gitignore.md -> python gitignore example
