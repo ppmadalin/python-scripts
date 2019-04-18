@@ -17,3 +17,4 @@ in Python programming.
 05. 05_semantic_versioning -> how to use semantic versioning
 06. 06_dockignore_sample.md -> dockignore sample
 07. 07_flask-dockerfile.md -> flask docker file sample
+08. 08_reset_git_local_cache.md -> how to reset git local cache
