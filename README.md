@@ -15,3 +15,5 @@ in Python programming.
 03. 03_gitignore.md -> python gitignore example
 04. 04_using_git_tag.md -> how to use git tag
 05. 05_semantic_versioning -> how to use semantic versioning
+06. 06_dockignore_sample.md -> dockignore sample
+07. 07_flask-dockerfile.md -> flask docker file sample
