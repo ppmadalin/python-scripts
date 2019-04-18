@@ -1,3 +1,4 @@
+```
 FROM python:3.7-slim
 
 ## make a local directory
@@ -23,3 +24,4 @@ ENV FLASK_ENV=development
 
 # Define our command to be run when launching the container
 CMD ["flask", "run", "--host", "0.0.0.0"]
+```
