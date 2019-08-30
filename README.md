@@ -1,9 +1,5 @@
 ![licence](https://img.shields.io/apm/l/snippets) ![size](https://img.shields.io/github/repo-size/ppmadalin/python-scripts) ![python](https://img.shields.io/pypi/pyversions/Django) ![commit](https://img.shields.io/github/last-commit/ppmadalin/python-scripts) ![issues](https://img.shields.io/github/issues/ppmadalin/python-scripts)
 
-<p align="center">
-  <img src="https://github.com/ppmadalin/python-scripts/blob/master/docs/images/snippets-note-left-sm.png">
-</p>
-
 ## About this Repository
 
 This repository intends to contain a collection of scripts and snippets gathered across my journey with python. The purpose of the content within this repository is to serve as reference for python developers. 
