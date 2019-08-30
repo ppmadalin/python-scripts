@@ -1,4 +1,4 @@
-![licence](https://img.shields.io/apm/l/snippets) ![size](https://img.shields.io/github/repo-size/ppmadalin/python-scripts) ![python](https://img.shields.io/pypi/pyversions/Django) ![commit](https://img.shields.io/github/last-commit/ppmadalin/python-scripts) ![issues](https://img.shields.io/github/issues/ppmadalin/python-scripts)
+![licence](https://img.shields.io/apm/l/snippets) ![size](https://img.shields.io/github/repo-size/ppmadalin/pyreference) ![python](https://img.shields.io/pypi/pyversions/Django) ![commit](https://img.shields.io/github/last-commit/ppmadalin/pyreference) ![issues](https://img.shields.io/github/issues/ppmadalin/pyreference)
 
 ## About this Repository
 
