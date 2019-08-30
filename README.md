@@ -1,8 +1,11 @@
 # Python Development Snippets
 
-This repository intends to contain a collection of scripts and snippets gathered across my journey with python.
+This repository intends to contain a collection of scripts and snippets gathered across my journey with python. The purpose of the content within this repository is to serve as reference for python developers. 
 
-### Git
+- [CONTRIBUTING](CONTRIBUTING.md)
+- [LICENSE](LICENSE)
+
+### Git - Useful Commands
 
 01. My CheatSheet
 
