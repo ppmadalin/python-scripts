@@ -13,8 +13,8 @@ in Python programming.
 01. 01_working_with_virtualenv.md -> how to setup a python virtualenv
 02. 02_using_pip_and_requirements.md -> using pip commands
 03. 03_gitignore.md -> python gitignore example
-04. 04_using_git_tag.md -> how to use git tag
+04. 04_git_cheatsheet.md -> usefull git commands
 05. 05_semantic_versioning -> how to use semantic versioning
 06. 06_dockignore_sample.md -> dockignore sample
 07. 07_flask-dockerfile.md -> flask docker file sample
-08. 08_reset_git_local_cache.md -> how to reset git local cache
+
