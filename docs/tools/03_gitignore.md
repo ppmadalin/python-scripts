@@ -1,3 +1,4 @@
+```bash
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -114,3 +115,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
+```
