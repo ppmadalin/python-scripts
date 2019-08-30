@@ -9,7 +9,7 @@ This repository intends to contain a collection of scripts and snippets gathered
 
 #### Git - Useful Commands
 
-01. My CheatSheet
+01. CheatSheet
 02. Gitignore Template
 
 #### Setup - Best practices and Tools
