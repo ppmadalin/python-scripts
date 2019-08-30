@@ -9,8 +9,8 @@ This repository intends to contain a collection of scripts and snippets gathered
 
 #### Git - Useful Commands
 
-01. [CheatSheet](docs/tools/git_cheatsheet.md)
-02. Gitignore Template
+01. [CheatSheet](docs/tools/01_git_cheatsheet.md)
+02. [Gitignore Template](docs/tools/03_gitignore.md)
 
 #### Setup - Best practices and Tools
 
