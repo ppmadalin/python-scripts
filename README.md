@@ -2,7 +2,7 @@
   <img src="https://github.com/ppmadalin/python-scripts/blob/master/docs/images/snippets-note-left-sm.png">
 </p>
 
-## Python Development Snippets
+## About this Repository
 
 This repository intends to contain a collection of scripts and snippets gathered across my journey with python. The purpose of the content within this repository is to serve as reference for python developers. 
 
