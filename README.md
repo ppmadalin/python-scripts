@@ -5,24 +5,23 @@ This repository intends to contain a collection of scripts and snippets gathered
 - [CONTRIBUTING](CONTRIBUTING.md)
 - [LICENSE](LICENSE)
 
-### Git - Useful Commands
+#### Git - Useful Commands
 
 01. My CheatSheet
+02. Gitignore Template
 
-### Setup - Best practices and Tools
+#### Setup - Best practices and Tools
 
-### Snippets - Answome Code Snippets
+01. Virtualenv
+02. PIP and Requirements
+03. Semantinc Versioning
+04. Dockignore Template
+05. Flask Dockerfile
 
-01. 01_count_files_in_directory.py -> simple script to count files  
-02. 02_example_of_setup.py -> setup.py example
+#### Snippets - Answome Code Snippets
 
-### Scripts - Useful Python Scripts
+01. Setup: setup.py example
 
-01. 01_working_with_virtualenv.md -> how to setup a python virtualenv
-02. 02_using_pip_and_requirements.md -> using pip commands
-03. 03_gitignore.md -> python gitignore example
-04. 04_git_cheatsheet.md -> usefull git commands
-05. 05_semantic_versioning -> how to use semantic versioning
-06. 06_dockignore_sample.md -> dockignore sample
-07. 07_flask-dockerfile.md -> flask docker file sample
+#### Scripts - Useful Python Scripts
 
+01. Count: simple script to count files  
