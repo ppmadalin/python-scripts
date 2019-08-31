@@ -14,7 +14,7 @@ This repository intends to contain a collection of scripts and snippets gathered
 
 #### Setup - Best practices and Tools
 
-01. [Virtualenv](docs/tools/working_with_virtualenv.md)
+01. [Virtualenv](docs/tools/02_working_with_virtualenv.md)
 02. PIP and Requirements
 03. Semantinc Versioning
 04. Dockignore Template
