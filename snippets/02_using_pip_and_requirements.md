@@ -4,7 +4,7 @@ pip install SomePackage            # latest version
 pip install SomePackage==1.0.4     # specific version
 pip install 'SomePackage>=1.0.4'   # minimum version
 ```
-Unistall package
+**Unistall package**
 ```
 pip uninstall SomePackage
 ```
