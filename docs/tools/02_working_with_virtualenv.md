@@ -1,8 +1,11 @@
-Create a virtual env
-
+**Create a virtual env**
+```
 python -m venv <name_of_virtual_env>
-Activate virtual env
+```
 
+**Activate virtual env**
+
+```
 # Mac
 source /venv/bin/activate
 
@@ -11,3 +14,4 @@ source /venv/bin/activate
 
 # Windwos Powershell
 ./venv/Scripts/Activate.ps1
+```
