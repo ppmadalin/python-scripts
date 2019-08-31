@@ -15,15 +15,12 @@ This repository intends to contain a collection of scripts and snippets gathered
 #### Setup - Best practices and Tools
 
 01. [Virtualenv](docs/tools/02_working_with_virtualenv.md)
-02. PIP and Requirements
-03. Semantinc Versioning
-04. Dockignore Template
-05. Flask Dockerfile
-
-#### Snippets - Answome Code Snippets
-
-01. Setup: setup.py example
+02. [PIP and Requirements](docs/tools/04_using_pip_and_requirements.md)
+03. [Semantinc Versioning](docs/tools/06_semantic_verioning.md)
+04. [Dockignore Template](docs/tools/07_dockignore_sample.md)
+05. [Flask Dockerfile](docs/tools/05_flask-dockerfile.md)
 
 #### Scripts - Useful Python Scripts
 
-01. Count: simple script to count files  
+01. [Setup: setup.py example](scripts/02_example_of_setup.py)
+02. [Port Scanner](scripts/portscanner.py) 

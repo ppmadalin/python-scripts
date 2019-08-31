@@ -145,3 +145,26 @@ $ git diff [first-branch]...[second-branch]
 $ git show [commit]
 ```
 
+**GIT TAG**
+
+```
+# Tag a specific commit
+git tag -a v1 f855792
+git tag v1-test f855792
+
+# Push remote a specific tag
+git push origin v1
+
+# Push remote all tags
+git push origin --tags
+```
+
+**CLEAR LOCAL CACHE**
+
+```
+git rm -r --cached .
+git add .
+git commit -am 'git cache cleared'
+git push
+```
+
