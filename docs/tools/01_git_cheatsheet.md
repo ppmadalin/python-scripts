@@ -63,73 +63,85 @@ $ git branch -d [branch-name]
 **REFACTOR FILENAMES**
 
 ```
+# Deletes the file from the working directory and stages the deletion
 $ git rm [file]
-Deletes the file from the working directory and stages the deletion
+
+# Removes the file from version control but preserves the file locally
 $ git rm --cached [file]
-Removes the file from version control but preserves the file locally
+
+# Changes the file name and prepares it for commit
 $ git mv [file-original] [file-renamed]
-Changes the file name and prepares it for commit
 ```
 
 **SUPPRESS TRACKING**
 
 ```
+# A text file named .gitignore suppresses accidental versioning of
+# files and paths matching the specified paterns
 t
 *.log
 build/
 temp-*
-A text file named .gitignore suppresses accidental versioning of
-files and paths matching the specified paterns
-$ git ls-files --other --ignored --exclude-standard
-Lists all ignored files in this project
 
+# Lists all ignored files in this project
+$ git ls-files --other --ignored --exclude-standard
 ```
 
 **SAVE FRAGMENTS**
 
 ```
+# Temporarily stores all modified tracked files
 $ git stash
-Temporarily stores all modified tracked files
+
+# Lists all stashed changesets
 $ git stash list
-Lists all stashed changesets
+
+# Restores the most recently stashed files
 $ git stash pop
-Restores the most recently stashed files
+
+# Discards the most recently stashed changeset
 $ git stash drop
-Discards the most recently stashed changeset
 ```
 
 **SYNCHRONIZE CHANGES**
 
 ```
+# Downloads all history from the repository bookmark
 $ git fetch [bookmark]
-Downloads all history from the repository bookmark
+
+# Combines bookmark’s branch into current local branch
 $ git merge [bookmark]/[branch]
-Combines bookmark’s branch into current local branch
+
+# Uploads all local branch commits to GitHub
 $ git push [alias] [branch]
-Uploads all local branch commits to GitHub
+
+# Downloads bookmark history and incorporates changes
 $ git pull
-Downloads bookmark history and incorporates changes
 ```
 
 **REDO COMMITS**
 
 ```
+# Undoes all commits afer [commit], preserving changes locally
 $ git reset [commit]
-Undoes all commits afer [commit], preserving changes locally
+
+# Discards all history and changes back to the specified commit
 $ git reset --hard [commit]
-Discards all history and changes back to the specified commit
 ```
 
 **REVIEW HISTORY**
 
 ```
+# Lists version history for the current branch
 $ git log
-Lists version history for the current branch
+
+# Lists version history for a file, including renames
 $ git log --follow [file]
-Lists version history for a file, including renames
+
+# Shows content differences between two branches
 $ git diff [first-branch]...[second-branch]
-Shows content differences between two branches
+
+# Outputs metadata and content changes of the specified commit
 $ git show [commit]
-Outputs metadata and content changes of the specified commit
 ```
 
