@@ -11,6 +11,7 @@ This repository intends to contain a collection of scripts and snippets gathered
 
 01. [CheatSheet](docs/tools/01_git_cheatsheet.md)
 02. [Gitignore Template](docs/tools/03_gitignore.md)
+03. [Best Practices for Teams](https://github.com/susam/gitpr)
 
 #### Setup - Best practices and Tools
 
