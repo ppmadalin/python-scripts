@@ -168,3 +168,10 @@ git commit -am 'git cache cleared'
 git push
 ```
 
+**TIPS&TRICKS**
+
+```
+# Stop displaying branch in page mode
+git config --global pager.branch false
+```
+
