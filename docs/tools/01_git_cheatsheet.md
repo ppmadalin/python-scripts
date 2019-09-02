@@ -173,5 +173,8 @@ git push
 ```
 # Stop displaying branch in page mode
 git config --global pager.branch false
+
+# Refresh local remote branches
+git remote update origin --prune
 ```
 
