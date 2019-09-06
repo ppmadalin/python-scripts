@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-This repository intends to contain a collection of scripts and snippets gathered across my journey with python. The purpose of the content within this repository is to serve as reference for python developers. 
+This repository intends to contain a collection of scripts and snippets gathered across my journey with python. The purpose of the content within this repository is to serve as reference for python developers and not only. 
 
 - [CONTRIBUTING](CONTRIBUTING.md)
 - [LICENSE](LICENSE)
