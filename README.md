@@ -21,6 +21,7 @@ This repository intends to contain a collection of scripts and snippets gathered
 03. [Semantinc Versioning](docs/tools/06_semantic_verioning.md)
 04. [Dockignore Template](docs/tools/07_dockignore_sample.md)
 05. [Flask Dockerfile](docs/tools/05_flask-dockerfile.md)
+06. [Brew Cheatsheet](doc/tools/09_brew_commands.md)
 
 #### Scripts - Useful Python Scripts
 
