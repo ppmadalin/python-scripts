@@ -22,7 +22,7 @@ This repository intends to contain a collection of scripts and snippets gathered
 04. [Dockignore Template](docs/tools/07_dockignore_sample.md)
 05. [Flask Dockerfile](docs/tools/05_flask-dockerfile.md)
 06. [Brew Cheatsheet](doc/tools/09_brew_commands.md)
-07. [Pipenv Cheatsheet](https://gist.github.com/bradtraversy/c70a93d6536ed63786c434707b898d55)
+07. [Pipenv Cheatsheet](https://gist.github.com/ppmadalin/3fa9e3f7e5ba53bda3e904a2895cd527)
 
 #### Scripts - Useful Python Scripts
 
