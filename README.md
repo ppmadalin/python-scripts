@@ -28,3 +28,4 @@ This repository intends to contain a collection of scripts and snippets gathered
 01. [Setup: setup.py example](scripts/02_example_of_setup.py)
 02. [Port Scanner](scripts/portscanner.py)
 03. [Windwos 10 Notification](scripts/04_windwos10_toast.py)
+04. [Windwos System Tray Icon](scripts/05_system_tray_icon_window.py)
